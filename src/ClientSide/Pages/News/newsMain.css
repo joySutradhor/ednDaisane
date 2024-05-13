@@ -1,0 +1,57 @@
+@media only screen and (min-width: 1440px) and (max-width: 1469px) {
+   .cardGap {
+    margin-right: 45px;
+   }
+}
+@media only screen and (min-width: 1366px) and (max-width: 1439px) {
+    .mainCard{
+        width: 343px;
+        height: 276px;
+    }
+   .cardGapRight {
+    margin-right: 60px;
+   }
+   .cardMainText{
+    font-size: 18px;
+    line-height: 25px;
+    padding-right: 15px;
+   }
+   .cardPara {
+    font-size: 18px;
+    line-height: 25px;
+    padding-left: 15px;
+    padding-right: 15px;
+   }
+   .newCardGap{
+    width: 
+    343px;
+   }
+   .cardTop {
+    margin-top: 20px;
+   }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1365px) {
+    .cardPara {
+        font-size: 14px;
+        line-height: 20px;
+        padding-left: 5px;
+        padding-bottom: 15px;
+        padding-right: 15px;
+
+       }
+ }
+
+@media only screen and (min-width: 414px) and (max-width: 767px) {
+    
+    .newsCardImg {
+        width: 344px;
+        height: 276px;
+        object-fit: cover;
+        border-radius: 6px;
+    }
+    .newsCardLeftRight {
+        margin-left: 35px;
+        margin-right: 35px;
+    }
+ }

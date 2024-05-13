@@ -1,0 +1,18 @@
+@media only screen and (min-width: 1366px) and (max-width: 1439px) {
+    .youTubeHeight iframe  {
+        height: 747.8px;
+        width:  1170px;
+        margin: auto;
+    }
+}
+
+@media only screen and (min-width: 414px) and (max-width: 767px) {
+    .youTubeHeightWidth iframe  {
+        width:  344px;
+        border-radius: 15px;
+    }
+    .leftRightW {
+        margin-left: 35px;
+        margin-right: 35px;
+    }
+}
